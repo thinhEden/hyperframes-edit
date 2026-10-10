@@ -1,0 +1,306 @@
+[
+  {
+    "id": "s01",
+    "kind": "betelgeuse",
+    "start": 0.0,
+    "duration": 31.34181,
+    "paragraphs": [
+      "p01"
+    ],
+    "photos": null,
+    "xfade_in": 0
+  },
+  {
+    "id": "s02",
+    "kind": "collapse",
+    "start": 30.79181,
+    "duration": 16.6371,
+    "paragraphs": [
+      "p02",
+      "p03"
+    ],
+    "photos": null,
+    "xfade_in": 0.55
+  },
+  {
+    "id": "s03",
+    "kind": "arrival",
+    "start": 46.87892,
+    "duration": 5.40225,
+    "paragraphs": [
+      "p04"
+    ],
+    "photos": null,
+    "xfade_in": 0.55
+  },
+  {
+    "id": "s04",
+    "kind": "identity",
+    "start": 51.73117,
+    "duration": 11.6425,
+    "paragraphs": [
+      "p05",
+      "p06"
+    ],
+    "photos": null,
+    "xfade_in": 0.55
+  },
+  {
+    "id": "s05",
+    "kind": "body",
+    "start": 62.82367,
+    "duration": 12.36179,
+    "paragraphs": [
+      "p07",
+      "p08"
+    ],
+    "photos": null,
+    "xfade_in": 0.55
+  },
+  {
+    "id": "s06",
+    "kind": "meaning",
+    "start": 74.63546,
+    "duration": 20.86465,
+    "paragraphs": [
+      "p09",
+      "p10"
+    ],
+    "photos": null,
+    "xfade_in": 0.55
+  },
+  {
+    "id": "s07",
+    "kind": "volume",
+    "start": 94.9501,
+    "duration": 6.32377,
+    "paragraphs": [
+      "p11"
+    ],
+    "photos": null,
+    "xfade_in": 0.55
+  },
+  {
+    "id": "s08",
+    "kind": "water",
+    "start": 100.72388,
+    "duration": 13.02885,
+    "paragraphs": [
+      "p12"
+    ],
+    "photos": null,
+    "xfade_in": 0.55
+  },
+  {
+    "id": "s09",
+    "kind": "detectors",
+    "start": 113.20273,
+    "duration": 14.00775,
+    "paragraphs": [
+      "p13"
+    ],
+    "photos": [
+      "sk-pmt-exhibit.jpg",
+      "sk-pmt-detail.jpg",
+      "km3-deepsea.png",
+      "km3-optical-module.png"
+    ],
+    "xfade_in": 0.55
+  },
+  {
+    "id": "s10",
+    "kind": "background",
+    "start": 126.66048,
+    "duration": 15.09465,
+    "paragraphs": [
+      "p14",
+      "p15"
+    ],
+    "photos": null,
+    "xfade_in": 0.55
+  },
+  {
+    "id": "s11",
+    "kind": "natural",
+    "start": 141.20513,
+    "duration": 11.61971,
+    "paragraphs": [
+      "p16"
+    ],
+    "photos": [
+      "drill-site.jpg"
+    ],
+    "xfade_in": 0.55
+  },
+  {
+    "id": "s12",
+    "kind": "halzen",
+    "start": 152.27483,
+    "duration": 15.43375,
+    "paragraphs": [
+      "p17"
+    ],
+    "photos": [
+      "halzen-press.jpg"
+    ],
+    "xfade_in": 0.55
+  },
+  {
+    "id": "s13",
+    "kind": "array",
+    "start": 167.15858,
+    "duration": 7.22819,
+    "paragraphs": [
+      "p18"
+    ],
+    "photos": null,
+    "xfade_in": 0.55
+  },
+  {
+    "id": "s14",
+    "kind": "drilling",
+    "start": 173.83677,
+    "duration": 8.7274,
+    "paragraphs": [
+      "p19"
+    ],
+    "photos": [
+      "drill-head.png",
+      "deployment.png"
+    ],
+    "xfade_in": 0.55
+  },
+  {
+    "id": "s15",
+    "kind": "sensor",
+    "start": 182.01417,
+    "duration": 5.35527,
+    "paragraphs": [
+      "p20"
+    ],
+    "photos": null,
+    "xfade_in": 0.55
+  },
+  {
+    "id": "s16",
+    "kind": "cherenkov",
+    "start": 186.81944,
+    "duration": 13.01444,
+    "paragraphs": [
+      "p21"
+    ],
+    "photos": null,
+    "xfade_in": 0.55
+  },
+  {
+    "id": "s17",
+    "kind": "timing",
+    "start": 199.28387,
+    "duration": 6.39175,
+    "paragraphs": [
+      "p22"
+    ],
+    "photos": null,
+    "xfade_in": 0.55
+  },
+  {
+    "id": "s18",
+    "kind": "evidence",
+    "start": 205.12563,
+    "duration": 17.56304,
+    "paragraphs": [
+      "p23",
+      "p24"
+    ],
+    "photos": null,
+    "xfade_in": 0.55
+  },
+  {
+    "id": "s19",
+    "kind": "search",
+    "start": 222.13867,
+    "duration": 9.12104,
+    "paragraphs": [
+      "p25"
+    ],
+    "photos": null,
+    "xfade_in": 0.55
+  },
+  {
+    "id": "s20",
+    "kind": "alert",
+    "start": 230.70971,
+    "duration": 18.17623,
+    "paragraphs": [
+      "p26",
+      "p27"
+    ],
+    "photos": null,
+    "xfade_in": 0.55
+  },
+  {
+    "id": "s21",
+    "kind": "blazar",
+    "start": 248.33594,
+    "duration": 12.80115,
+    "paragraphs": [
+      "p28",
+      "p29"
+    ],
+    "photos": null,
+    "xfade_in": 0.55
+  },
+  {
+    "id": "s22",
+    "kind": "research",
+    "start": 260.58708,
+    "duration": 14.636,
+    "paragraphs": [
+      "p30"
+    ],
+    "photos": [
+      "dom-install.png",
+      "engineer.png"
+    ],
+    "xfade_in": 0.55
+  },
+  {
+    "id": "s23",
+    "kind": "nobel",
+    "start": 274.67308,
+    "duration": 15.42523,
+    "paragraphs": [
+      "p31"
+    ],
+    "photos": [
+      "team.jpg",
+      "nobel-2026-halzen.webp"
+    ],
+    "xfade_in": 0.55
+  },
+  {
+    "id": "s24",
+    "kind": "ending",
+    "start": 289.54831,
+    "duration": 14.40769,
+    "paragraphs": [
+      "p32",
+      "p33"
+    ],
+    "photos": [
+      "icecube-lab.jpg"
+    ],
+    "xfade_in": 0.55
+  },
+  {
+    "id": "logo-outro",
+    "kind": "outro",
+    "start": 303.406,
+    "duration": 6.0,
+    "paragraphs": [],
+    "photos": [
+      "channel-logo.png"
+    ],
+    "xfade_in": 0.55
+  }
+]

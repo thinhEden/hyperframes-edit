@@ -1,0 +1,10 @@
+{
+  "provider": "google-cloud",
+  "project_id": "astroweather-508604",
+  "voice": "vi-VN-Chirp3-HD-Charon",
+  "language_code": "vi-VN",
+  "speaking_rate": 1.1,
+  "sample_rate_hertz": 48000,
+  "sentence_pause_seconds": 0.32,
+  "opening_speaking_rate": 1.02
+}

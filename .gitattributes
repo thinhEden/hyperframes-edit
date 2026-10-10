@@ -1,0 +1,9 @@
+* text=auto eol=lf
+*.jpg -text
+*.jpeg -text
+*.png -text
+*.webp -text
+*.ttf -text
+*.wav -text
+*.mp3 -text
+*.mp4 -text

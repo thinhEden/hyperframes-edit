@@ -1,0 +1,13 @@
+Generated with the built-in image_gen tool.
+
+Use case: logo-brand.
+Generate ONE finished square TikTok avatar for the Vietnamese general-science channel "Khoa Học Mở Lối". A new direction: an OPEN QUESTION MARK. Do not use or retain the earlier maze or letter K.
+
+Background: a solid warm pale ivory #F3EBDD, deliberately LIGHT, not dark blue or black.
+Subject: one bold, beautifully proportioned deep-ink #16333B question-mark symbol, custom drawn as an identity mark. Its broad upper curve has one clean intentional break in the upper-right quadrant, forming an obvious opening into the surrounding space. The curve should still read instantly as a question mark. A short amber #C68A32 terminal segment on one side of the break subtly turns outward toward the opening, suggesting curiosity finding a way forward. The amber accent is structurally part of the question mark, not a separate floating decorative object. Keep a single small, well-balanced deep-ink dot below the stem.
+
+Design meaning: a question leads to an opening and discovery. The shape must read as BOTH an elegant question mark and an open passage, through simple geometry and negative space. A confident editorial-science identity, mature and distinctive, not a children's quiz symbol. Thick consistent strokes, carefully considered curve tension, generous clean spaces, restrained rounded ends. Prefer a smooth purposeful curve over mechanically assembled boxes.
+
+Flat vector-like graphic, uniform matte solid colors only. Center the mark, about 58–62% of canvas height, with generous margins to survive a circular avatar crop. High contrast and legible at 48 pixels. Single image, straight-on, no mockup or presentation board.
+
+No text, letters, wordmark, maze, atom, brain, light bulb, book, stars, arrowheads, extra dots, or decorative doodles. No gradients, grain, paper texture, glow, shadows, metallic finish, bevels, 3D, vignette, border, or watermark. Make the ivory background truly even and the mark edges crisp.

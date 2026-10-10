@@ -1,0 +1,463 @@
+1
+00:00:00,400 --> 00:00:01,450
+Đây là Betelgeuse
+
+2
+00:00:01,470 --> 00:00:04,550
+một ngôi sao siêu khổng lồ đỏ trên vai gã thợ săn Orion
+
+3
+00:00:04,570 --> 00:00:07,350
+mà bạn có thể quan sát bằng mắt thường trên bầu trời đêm
+
+4
+00:00:07,370 --> 00:00:09,950
+Nếu đặt nó vào vị trí của Mặt Trời
+
+5
+00:00:09,970 --> 00:00:13,650
+bề mặt của nó sẽ vượt qua cả quỹ đạo của Trái Đất lẫn sao Hỏa
+
+6
+00:00:13,670 --> 00:00:17,050
+Những ngôi sao lớn như vậy không lụi tàn lặng lẽ
+
+7
+00:00:17,070 --> 00:00:20,050
+Chúng kết thúc cuộc đời bằng một vụ nổ dữ dội
+
+8
+00:00:20,070 --> 00:00:24,150
+Khi Betelgeuse phát nổ ánh sáng của nó sẽ lan qua không gian
+
+9
+00:00:24,170 --> 00:00:27,050
+và khi tới Trái Đất nó sẽ bừng lên trên bầu trời
+
+10
+00:00:27,070 --> 00:00:30,100
+sáng gần như Mặt Trăng nhìn thấy được cả ban ngày
+
+11
+00:00:30,972 --> 00:00:33,122
+Thế nhưng chúng ta có thể biết vụ nổ ấy
+
+12
+00:00:33,142 --> 00:00:35,625
+đã xảy ra trước cả khi nhìn thấy ánh sáng của nó
+
+13
+00:00:36,209 --> 00:00:39,259
+Khi lõi một ngôi sao lớn sụp đổ nó giải phóng một dòng hạt
+
+14
+00:00:39,279 --> 00:00:41,759
+có thể xuyên qua các lớp vật chất và thoát ra rất nhanh
+
+15
+00:00:41,779 --> 00:00:44,259
+Còn ánh sáng của vụ nổ xuất hiện muộn hơn
+
+16
+00:00:44,279 --> 00:00:46,579
+khi sóng xung kích lan tới bề mặt ngôi sao
+
+17
+00:00:47,059 --> 00:00:49,509
+Chính dòng hạt ấy có thể mang tới dấu hiệu đầu tiên về vụ nổ
+
+18
+00:00:49,529 --> 00:00:51,112
+trước khi chúng ta nhìn thấy nó
+
+19
+00:00:51,911 --> 00:00:53,764
+Những hạt ấy được gọi là neutrino
+
+20
+00:00:54,240 --> 00:00:55,090
+Đây là một loại hạt cơ bản
+
+21
+00:00:55,110 --> 00:00:57,290
+không mang điện và có khối lượng rất nhỏ
+
+22
+00:00:57,310 --> 00:00:59,690
+Neutrino hiếm khi tương tác với vật chất
+
+23
+00:00:59,710 --> 00:01:02,510
+nên chúng thường đi xuyên qua mà chẳng để lại dấu vết
+
+24
+00:01:03,004 --> 00:01:03,554
+Ngay lúc này
+
+25
+00:01:03,574 --> 00:01:07,054
+rất nhiều neutrino sinh ra trong Mặt Trời đang xuyên qua cơ thể bạn
+
+26
+00:01:07,074 --> 00:01:10,107
+Bạn chẳng cảm thấy gì còn chúng cứ tiếp tục hành trình
+
+27
+00:01:10,663 --> 00:01:12,713
+Đặc điểm khó phát hiện ấy khiến neutrino thường
+
+28
+00:01:12,733 --> 00:01:14,008
+được gọi là hạt ma
+
+29
+00:01:14,816 --> 00:01:17,166
+Khả năng xuyên qua vật chất cũng giúp neutrino
+
+30
+00:01:17,186 --> 00:01:19,816
+mang thông tin từ sâu bên trong nguồn phát tới chúng ta
+
+31
+00:01:19,836 --> 00:01:22,486
+Chẳng hạn đo neutrino từ Mặt Trời giúp
+
+32
+00:01:22,506 --> 00:01:25,386
+các nhà khoa học nghiên cứu những phản ứng đang diễn ra ở lõi nó
+
+33
+00:01:25,406 --> 00:01:28,086
+Với các neutrino năng lượng cao từ vũ trụ
+
+34
+00:01:28,106 --> 00:01:32,086
+năng lượng và hướng đến của chúng lại là manh mối để lần theo
+
+35
+00:01:32,106 --> 00:01:34,606
+những nơi đang tạo ra các hạt mang năng lượng cực lớn
+
+36
+00:01:35,130 --> 00:01:38,280
+Muốn đọc được những manh mối ấy các nhà khoa học cần ghi nhận
+
+37
+00:01:38,300 --> 00:01:40,230
+những lần neutrino tương tác với vật chất
+
+38
+00:01:40,904 --> 00:01:42,454
+Một cách làm là dùng một lượng nước lớn
+
+39
+00:01:42,474 --> 00:01:44,554
+bao quanh bằng các cảm biến ánh sáng
+
+40
+00:01:44,574 --> 00:01:46,354
+Khi neutrino tương tác
+
+41
+00:01:46,374 --> 00:01:49,054
+những hạt mang điện sinh ra có thể phát ánh sáng trong nước
+
+42
+00:01:49,074 --> 00:01:50,854
+Các cảm biến ghi lại ánh sáng ấy
+
+43
+00:01:50,874 --> 00:01:53,363
+để nhóm nghiên cứu tái dựng sự kiện
+
+44
+00:01:53,383 --> 00:01:55,733
+Ở Nhật Bản Super Kamiokande dùng
+
+45
+00:01:55,753 --> 00:01:57,933
+một bể chứa năm mươi nghìn tấn nước dưới lòng đất
+
+46
+00:01:57,953 --> 00:01:59,633
+Còn tại Địa Trung Hải
+
+47
+00:01:59,653 --> 00:02:02,833
+các mạng dò của KM3NeT được đặt trong nước biển sâu
+
+48
+00:02:02,853 --> 00:02:06,178
+mạng ARCA cũng hướng tới neutrino năng lượng cao từ vũ trụ
+
+49
+00:02:06,840 --> 00:02:08,590
+Với những neutrino vũ trụ rất hiếm ấy
+
+50
+00:02:08,610 --> 00:02:10,690
+cần quan sát một thể tích vật chất đủ lớn
+
+51
+00:02:10,710 --> 00:02:12,554
+để tăng cơ hội phát hiện
+
+52
+00:02:12,574 --> 00:02:14,724
+Có tín hiệu rồi vẫn phải xác định nó đến từ đâu
+
+53
+00:02:14,744 --> 00:02:17,724
+bởi khí quyển cũng tạo ra neutrino và những hạt gây nhiễu
+
+54
+00:02:17,744 --> 00:02:21,365
+Máy dò dưới biển còn phải xử lý ánh sáng nền trong nước
+
+55
+00:02:21,385 --> 00:02:23,335
+Riêng bài toán quy mô gợi ra một hướng giải quyết
+
+56
+00:02:23,355 --> 00:02:26,835
+tận dụng những khối vật chất khổng lồ đã có sẵn trong tự nhiên
+
+57
+00:02:26,855 --> 00:02:29,035
+Các dự án dưới biển dùng nước
+
+58
+00:02:29,055 --> 00:02:32,435
+còn một lựa chọn khác nằm ở lớp băng sâu của Nam Cực
+
+59
+00:02:32,455 --> 00:02:36,405
+Từ cuối những năm 1980 Francis Halzen một nhà vật lý
+
+60
+00:02:36,425 --> 00:02:39,705
+tại Đại học Wisconsin Madison ở Mỹ đã theo đuổi hướng dùng băng này
+
+61
+00:02:39,725 --> 00:02:42,305
+Ông nhận ra lớp băng sâu có thể cung cấp
+
+62
+00:02:42,325 --> 00:02:43,605
+một thể tích quan sát rất lớn
+
+63
+00:02:43,625 --> 00:02:46,855
+với những vùng đủ trong để ánh sáng truyền tới các cảm biến
+
+64
+00:02:47,339 --> 00:02:48,189
+Nếu đưa thiết bị xuống đó
+
+65
+00:02:48,209 --> 00:02:50,489
+chính lớp băng sẽ trở thành một phần của máy dò
+
+66
+00:02:50,509 --> 00:02:53,259
+Từ ý tưởng ấy IceCube ra đời
+
+67
+00:02:54,017 --> 00:02:54,767
+Để lắp đặt thiết bị
+
+68
+00:02:54,787 --> 00:02:57,967
+các kỹ sư dùng nước nóng khoan những lỗ sâu gần hai cây số rưỡi
+
+69
+00:02:57,987 --> 00:03:00,067
+Họ thả xuống các dây mang cảm biến
+
+70
+00:03:00,087 --> 00:03:01,737
+rồi để nước đóng băng trở lại
+
+71
+00:03:02,194 --> 00:03:03,144
+Trong cấu hình ban đầu
+
+72
+00:03:03,164 --> 00:03:06,979
+hơn năm nghìn cảm biến được bố trí trong khoảng một kilômét khối băng
+
+73
+00:03:06,999 --> 00:03:10,549
+IceCube ghi nhận ánh sáng sinh ra khi neutrino tương tác
+
+74
+00:03:10,569 --> 00:03:13,349
+Trong băng ánh sáng truyền chậm hơn trong chân không
+
+75
+00:03:13,369 --> 00:03:16,149
+Các hạt mang điện có thể vượt qua tốc độ ánh sáng
+
+76
+00:03:16,169 --> 00:03:19,444
+trong môi trường này và phát ra ánh sáng Cherenkov
+
+77
+00:03:19,464 --> 00:03:22,314
+Thời điểm và lượng ánh sáng tại từng cảm biến giúp nhóm nghiên cứu
+
+78
+00:03:22,334 --> 00:03:24,564
+ước tính năng lượng và tái dựng hướng đi của sự kiện
+
+79
+00:03:25,306 --> 00:03:28,156
+Từ những phép đo ấy nhóm nghiên cứu tìm các sự kiện
+
+80
+00:03:28,176 --> 00:03:30,527
+có đặc điểm phù hợp với nguồn phát ngoài Trái Đất
+
+81
+00:03:30,547 --> 00:03:33,597
+Năm 2013 IceCube công bố kết quả phân tích
+
+82
+00:03:33,617 --> 00:03:35,097
+hai mươi tám sự kiện năng lượng cao
+
+83
+00:03:35,117 --> 00:03:36,597
+Xét chúng cùng nhau
+
+84
+00:03:36,617 --> 00:03:39,497
+các nhà khoa học tìm thấy bằng chứng về một thành phần neutrino
+
+85
+00:03:39,517 --> 00:03:42,299
+mà tín hiệu nền khí quyển không đủ để giải thích
+
+86
+00:03:42,319 --> 00:03:43,769
+Kết quả đó mở đường cho việc
+
+87
+00:03:43,789 --> 00:03:47,169
+dùng IceCube nghiên cứu neutrino năng lượng cao từ vũ trụ
+
+88
+00:03:47,189 --> 00:03:50,114
+Bước tiếp theo là tìm nguồn phát cụ thể
+
+89
+00:03:50,890 --> 00:03:54,640
+Một cơ hội xuất hiện vào năm 2017 khi IceCube ghi nhận
+
+90
+00:03:54,660 --> 00:03:57,360
+một sự kiện neutrino năng lượng cao và phát đi cảnh báo
+
+91
+00:03:57,909 --> 00:03:58,959
+Dựa vào hướng được tái dựng
+
+92
+00:03:58,979 --> 00:04:01,459
+các kính thiên văn khác cùng quan sát vùng trời liên quan
+
+93
+00:04:01,479 --> 00:04:04,059
+Ở đó có một thiên hà hoạt động thuộc loại blazar
+
+94
+00:04:04,079 --> 00:04:06,759
+nơi vùng quanh một lỗ đen siêu khối lượng tạo ra
+
+95
+00:04:06,779 --> 00:04:07,962
+những luồng vật chất mạnh mẽ
+
+96
+00:04:08,516 --> 00:04:10,766
+Kết hợp dữ liệu neutrino với các quan sát khác
+
+97
+00:04:10,786 --> 00:04:13,666
+những nghiên cứu công bố năm 2018 đưa ra
+
+98
+00:04:13,686 --> 00:04:16,150
+bằng chứng liên hệ sự kiện này với blazar ấy
+
+99
+00:04:16,170 --> 00:04:18,420
+Dấu vết dưới băng đã giúp các nhà khoa học lần theo
+
+100
+00:04:18,440 --> 00:04:20,057
+một nguồn phát khả dĩ ở rất xa
+
+101
+00:04:20,767 --> 00:04:22,717
+Manh mối về blazar ấy là kết quả
+
+102
+00:04:22,737 --> 00:04:24,017
+của nhiều năm xây dựng thiết bị
+
+103
+00:04:24,037 --> 00:04:25,317
+đo đạc và phân tích dữ liệu
+
+104
+00:04:25,337 --> 00:04:28,917
+Để một chớp sáng dưới băng trở thành thông tin về vũ trụ
+
+105
+00:04:28,937 --> 00:04:30,717
+các nhà nghiên cứu phải hiểu ánh sáng
+
+106
+00:04:30,737 --> 00:04:31,917
+đã truyền qua băng như thế nào
+
+107
+00:04:31,937 --> 00:04:34,320
+rồi tái dựng tương tác tạo ra nó
+
+108
+00:04:34,853 --> 00:04:37,003
+Halzen góp phần định hướng và dẫn dắt công trình ấy
+
+109
+00:04:37,023 --> 00:04:40,303
+cùng một cộng đồng nhà khoa học kỹ sư và kỹ thuật viên quốc tế
+
+110
+00:04:40,323 --> 00:04:43,203
+Những đóng góp quyết định của ông cho IceCube
+
+111
+00:04:43,223 --> 00:04:45,203
+và việc phát hiện neutrino năng lượng cao
+
+112
+00:04:45,223 --> 00:04:48,933
+từ vũ trụ đã được ghi nhận bằng Nobel Vật lý 2026
+
+113
+00:04:49,728 --> 00:04:53,478
+Nhờ IceCube những tương tác hiếm hoi của neutrino trở thành dữ liệu
+
+114
+00:04:53,498 --> 00:04:56,420
+giúp chúng ta lần theo các nguồn phát ở rất xa
+
+115
+00:04:56,440 --> 00:04:58,590
+Và từ những chớp sáng nằm sâu dưới băng Nam Cực
+
+116
+00:04:58,610 --> 00:05:01,510
+chúng ta đang học thêm về những điều xảy ra ngoài vũ trụ

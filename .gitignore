@@ -1,0 +1,16 @@
+node_modules/
+.hyperframes/
+.review/
+.thumbnails/
+.waveform-cache/
+renders/
+out/
+outputs/
+__pycache__/
+*.py[cod]
+*.log
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example

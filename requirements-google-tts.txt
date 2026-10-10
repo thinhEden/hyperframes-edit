@@ -1,0 +1,4 @@
+google-auth[requests]>=2.35,<3
+requests>=2.32,<3
+numpy>=1.26
+scipy>=1.11
